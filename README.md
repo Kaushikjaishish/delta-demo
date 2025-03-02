@@ -5,4 +5,4 @@ Demo Practice for Github
 Shraddha Khapra
 
 # Student
-Suresh Kumar
+Suresh Kumar Kaushik
